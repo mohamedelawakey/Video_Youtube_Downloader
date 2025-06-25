@@ -59,6 +59,8 @@ Graphical User Interface (GUI): In the future, a GUI version will be developed f
 
 ### Troubleshooting:
 
-If you face any issues with installation or usage, feel free to open an issue in the repository, and I'll be happy to help.
+If you face any issues with installation or usage, feel free to open an issue in the repository, and I'll be happy to help. Alternatively, you can reach out to me via:
+- Email: mohamedelawakey@gmail.com
+- Phone: +201127247680
 
 <hr>
