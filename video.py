@@ -13,6 +13,7 @@ def download_video_or_playlist(url, download_path):
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
 
-download_path = "C:/Users/Alawakey/Desktop/download songs/videos/Data Structures and Algorithms in Python"
+# put your path to download in here
+download_path = "C:\Users\Downloads"
 url = input("Enter the YouTube video or playlist URL: ")
 download_video_or_playlist(url, download_path)
